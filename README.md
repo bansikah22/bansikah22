@@ -20,11 +20,11 @@
  
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bansikah22&show_icons=true&locale=en&layout=compact" alt="bansikah22" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bansikah&show_icons=true&locale=en&layout=compact" alt="bansikah" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=bansikah22&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=bansikah&show_icons=true&theme=radical" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bansikah22&" alt="bansikah22" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bansikah&" alt="bansikah" /></p>
 
 ## My 📚blog posts
 <!-- BLOG-POST-LIST:START -->
