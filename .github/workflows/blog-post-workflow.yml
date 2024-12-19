@@ -2,7 +2,7 @@ name: Latest blog post workflow
 on:
   schedule: 
     - cron: '0 * * * *' # Runs every hour, on the hour
-  workflow_dispatch: 
+  workflow_dispatch: # Run workflow manually through the GitHub Actions Workflow page directly
 jobs:
   update-readme-with-hashnode-blog:
     name: Update this repo's README with my most recent Hashnode blog posts.
@@ -11,7 +11,7 @@ jobs:
       - name: Checkout repository content
         uses: actions/checkout@v2
         with:
-          persist-credentials: false # Important to disable the default GITHUB_TOKEN
+          persist-credentials: false # Important: disable the default GITHUB_TOKEN
       - name: Set up Git
         run: |
           git config --global user.name 'github-actions[bot]'
@@ -24,8 +24,8 @@ jobs:
           feed_list: "https://bansikah.hashnode.dev//rss.xml"
       - name: Commit and push if there are changes
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git add README.md
           git commit -m "Updated with the latest blog posts" || exit 0
-          git push "https://${GH_TOKEN}@github.com/${{ github.repository }}.git"
+          git push "https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
