@@ -4,11 +4,11 @@ on:
     - cron: '0 0 * * *' # Runs every midnight (UTC)
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
 jobs:
-  update-readme-with-hashnode-blog:
-    name: Update this repo's README with my most recent Hashnode blog posts.
+  update-readme-with-devto-blog:
+    name: Update this repo's README with my most recent dev.to blog posts.
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://bansikah.hashnode.dev//rss.xml"
+          feed_list: "https://dev.to/feed/bansikah"
