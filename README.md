@@ -1,6 +1,9 @@
 ### 👋 Hi, I'm Noel Bansikah!
 
-👨‍💻 I'm a software developer with three years of experience creating beautiful, user-friendly web interfaces. I specialize in building responsive, scalable, and accessible websites using the latest web technologies such as HTML5, CSS3, JavaScript, and modern front-end frameworks like React, Vue, and Angular.
+👨‍💻 I'm a Software Engineer with 3 years+ experience creating beautiful, user-friendly web interfaces. I specialize in building responsive, scalable, and accessible websites using the latest web technologies such as HTML5, CSS3, JavaScript, and modern front-end frameworks like React, Vue, and Angular, and backend frames like Spring boot.
+
+After building responsive and robust applications, I deploy these applications into the cloud(aws, azure), using other tools like terraform to setup the IaC, and ansible for configuration management, kubernetes and helm for Container orchestration, snyk and sonarqube for security scanning, grafana and prometheus for monitoring and logging. I also write Helpful Articles to share my Knowledge with other.
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bansikah22&label=Profile%20views&color=0e75b6&style=flat" alt="bansikah22" /> </p>
 
