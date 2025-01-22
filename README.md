@@ -9,10 +9,10 @@ After building responsive and robust applications, I deploy these applications i
 
 <h3 align="left">Where to find Me:</h3>
 <p align="left">
-<a href="https://dev.to/bansikah22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/bansikah22" height="30" width="40" /></a>
+<a href="https://dev.to/bansikah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/bansikah" height="30" width="40" /></a>
 <a href="https://twitter.com/@tbansikah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tbansikah" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/feed/update/urn:li:share:7074558452550770688/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/update/urn:li:share:7074558452550770688/" height="30" width="40" /></a>
-<a href="https://hashnode.com/@bansikah22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@bansikah22" height="30" width="40" /></a>
+<a href="https://hashnode.com/@Bansikah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@bansikah22" height="30" width="40" /></a>
 <a href="https://medium.com/@tandapnoelbansikah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@tandapnoelbansikah" height="30" width="40" /></a>
 </p>
 
@@ -23,11 +23,11 @@ After building responsive and robust applications, I deploy these applications i
  
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bansikah&show_icons=true&locale=en&layout=compact" alt="bansikah" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bansikah22&show_icons=true&locale=en&layout=compact" alt="bansikah22" /></p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=bansikah&show_icons=true&theme=radical" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bansikah&" alt="bansikah" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bansikah22&" alt="bansikah22" /></p>
 
 ## My 📚blog posts
 <!-- BLOG-POST-LIST:START -->
