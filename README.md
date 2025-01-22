@@ -25,7 +25,7 @@ After building responsive and robust applications, I deploy these applications i
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bansikah22&show_icons=true&locale=en&layout=compact" alt="bansikah22" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=bansikah&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=bansikah22&show_icons=true&theme=radical" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bansikah22&" alt="bansikah22" /></p>
 
