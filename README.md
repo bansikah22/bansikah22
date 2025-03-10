@@ -33,7 +33,7 @@ After building responsive and robust applications, I deploy these applications i
 <!-- BLOG-POST-LIST:START -->
 - [Kubernetes for Beginners](https://bansikah.hashnode.dev/kubernetes-for-beginners)
 - [Boost Your DevOps Workflow with Traefik](https://bansikah.hashnode.dev/boost-your-devops-workflow-with-traefik)
-- [Music Player GUI with Python](https://bansikah.hashnode.dev/music-player-gui-with-python)
-- [A Beginner's Guide to Using PostgreSQL on Ubuntu Terminal](https://bansikah.hashnode.dev/a-beginners-guide-to-using-postgresql-on-ubuntu-terminal)
-- [Object-Oriented Programming (OOP) Concepts with Real-World Scenarios](https://bansikah.hashnode.dev/object-oriented-programming-oop-concepts-with-real-world-scenarios)
+- [Music Player GUI with Python](https://bansikah.hashnode.dev/music-player-gui-with-python)
+- [A Beginner&#39;s Guide to Using PostgreSQL on Ubuntu Terminal](https://bansikah.hashnode.dev/a-beginners-guide-to-using-postgresql-on-ubuntu-terminal)
+- [Object-Oriented Programming &lpar;OOP&rpar; Concepts with Real-World Scenarios](https://bansikah.hashnode.dev/object-oriented-programming-oop-concepts-with-real-world-scenarios)
 <!-- BLOG-POST-LIST:END -->
