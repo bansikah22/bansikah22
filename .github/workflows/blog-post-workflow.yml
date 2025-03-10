@@ -1,20 +1,20 @@
-name: Latest blog post workflow
+# name: Latest blog post workflow
 
-# Define permissions for the GITHUB_TOKEN
-permissions:
-  contents: write  # Allows the workflow to write to the repository 
+# # Define permissions for the GITHUB_TOKEN
+# permissions:
+#   contents: write  # Allows the workflow to write to the repository 
 
-on:
-  schedule:
-    - cron: '5 8 * * 0'  # Runs every Sunday at 08:05 UTC
-  workflow_dispatch:    # Allows manual triggering
+# on:
+#   schedule:
+#     - cron: '5 8 * * 0'  # Runs every Sunday at 08:05 UTC
+#   workflow_dispatch:    # Allows manual triggering
 
-jobs:
-  update-readme-with-hashnode-blog:
-    name: Update this repo's README with my most recent Hashnode blog posts
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          feed_list: "https://bansikah.hashnode.dev/rss.xml"  # Fixed double slash in URL
+# jobs:
+#   update-readme-with-hashnode-blog:
+#     name: Update this repo's README with my most recent Hashnode blog posts
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: actions/checkout@v2
+#       - uses: gautamkrishnar/blog-post-workflow@master
+#         with:
+#           feed_list: "https://bansikah.hashnode.dev/rss.xml"  # Fixed double slash in URL
