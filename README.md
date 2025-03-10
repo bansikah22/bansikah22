@@ -31,9 +31,9 @@ After building responsive and robust applications, I deploy these applications i
 
 ## My 📚blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes for Beginners](https://bansikah.hashnode.dev/kubernetes-for-beginners)
-- [Boost Your DevOps Workflow with Traefik](https://bansikah.hashnode.dev/boost-your-devops-workflow-with-traefik)
-- [Music Player GUI with Python](https://bansikah.hashnode.dev/music-player-gui-with-python)
-- [A Beginner&#39;s Guide to Using PostgreSQL on Ubuntu Terminal](https://bansikah.hashnode.dev/a-beginners-guide-to-using-postgresql-on-ubuntu-terminal)
-- [Object-Oriented Programming &lpar;OOP&rpar; Concepts with Real-World Scenarios](https://bansikah.hashnode.dev/object-oriented-programming-oop-concepts-with-real-world-scenarios)
+- [System Design for Devops Engineers](https://dev.to/bansikah/-5f2i)
+- [Deploying an AWS EC2 Instance with Terraform and SSH Access](https://dev.to/bansikah/deploying-an-aws-ec2-instance-with-terraform-and-ssh-access-d09)
+- [[Boost]](https://dev.to/bansikah/-1ml1)
+- [Building a Custom Ubuntu Image with SDKMAN and Using It in a GitLab CI/CD Pipeline](https://dev.to/bansikah/building-a-custom-ubuntu-image-with-sdkman-and-using-it-in-a-gitlab-cicd-pipeline-5c9k)
+- [Mastering Docker Basics: A Comprehensive Guide for Beginners](https://dev.to/bansikah/mastering-docker-basics-a-comprehensive-guide-for-beginners-4odh)
 <!-- BLOG-POST-LIST:END -->
