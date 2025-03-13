@@ -31,9 +31,9 @@ After building responsive and robust applications, I deploy these applications i
 
 ## My 📚blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Real-time Laptop Monitoring System with Flask and Redis](https://dev.to/bansikah/building-a-real-time-laptop-monitoring-system-with-flask-and-redis-3mch)
 - [Deploying a Node.js Application with Kustomize on Minikube](https://dev.to/bansikah/deploying-a-nodejs-application-with-kustomize-on-minikube-443k)
 - [PR Summarizer: Your GitHub Sidekick for Faster and Funnier Reviews! 🎉](https://dev.to/bansikah/pr-summarizer-your-github-sidekick-for-faster-and-funnier-reviews-1635)
 - [System Design for Devops Engineers](https://dev.to/bansikah/-5f2i)
 - [Deploying an AWS EC2 Instance with Terraform and SSH Access](https://dev.to/bansikah/deploying-an-aws-ec2-instance-with-terraform-and-ssh-access-d09)
-- [[Boost]](https://dev.to/bansikah/-1ml1)
 <!-- BLOG-POST-LIST:END -->
