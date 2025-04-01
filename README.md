@@ -5,7 +5,8 @@
 After building responsive and robust applications, I deploy these applications into the cloud(aws, azure), using other tools like terraform to setup the IaC, and ansible for configuration management, kubernetes and helm for Container orchestration, snyk and sonarqube for security scanning, grafana and prometheus for monitoring and logging. I also write Helpful Articles to share my Knowledge with other.
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bansikah22&label=Profile%20views&color=0e75b6&style=flat" alt="bansikah22" /> </p>
+![Visitor Count](https://hits.sh/github.com/bansikah22.svg?style=plastic&label=Visitors&color=lime&labelColor=black)
+
 
 <h3 align="left">Where to find Me:</h3>
 <p align="left">
