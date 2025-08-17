@@ -32,9 +32,9 @@ After building responsive and robust applications, I deploy these applications i
 
 ## My 📚blog posts
 <!-- BLOG-POST-LIST:START -->
+- [YAML Made Easy: From Basics to Practical Use Cases](https://dev.to/bansikah/yaml-the-backbone-of-modern-devops-mhm)
 - [Why Programming Fundamentals Are Crucial Before Diving Into AI](https://dev.to/bansikah/why-programming-fundamentals-are-crucial-before-diving-into-ai-3lml)
-- [Part 2: # AWS Config Conformance Packs&lpar;Hands-On Guide&rpar;](https://dev.to/bansikah/part-2-aws-config-conformance-packshands-on-guide-o5n)
+- [Part 2: AWS Config Conformance Packs&lpar;Hands-On Guide&rpar;](https://dev.to/bansikah/part-2-aws-config-conformance-packshands-on-guide-o5n)
 - [Part 1: AWS Config: Automate Your Cloud Compliance and Security](https://dev.to/bansikah/aws-config-automate-your-cloud-compliance-and-security-2n23)
 - [Building a Real-time Laptop Monitoring System with Flask and Redis](https://dev.to/bansikah/building-a-real-time-laptop-monitoring-system-with-flask-and-redis-3mch)
-- [Deploying a Node.js Application with Kustomize on Minikube](https://dev.to/bansikah/deploying-a-nodejs-application-with-kustomize-on-minikube-443k)
 <!-- BLOG-POST-LIST:END -->
