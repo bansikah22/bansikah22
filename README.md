@@ -32,9 +32,9 @@ After building responsive and robust applications, I deploy these applications i
 
 ## My 📚blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes Security Context: A Comprehensive Guide](https://dev.to/bansikah/kubernetes-security-context-a-comprehensive-guide-5b5f)
+- [MCP Basics - Understanding the Model Context Protocol](https://dev.to/bansikah/mcp-basics-understanding-the-model-context-protocol-566g)
 - [Building a Serverless Todo API with AWS and Terraform: A Complete Learning Guide](https://dev.to/bansikah/building-a-serverless-todo-api-with-aws-and-terraform-a-complete-learning-guide-11jh)
 - [YAML Made Easy: From Basics to Practical Use Cases](https://dev.to/bansikah/yaml-the-backbone-of-modern-devops-mhm)
 - [Why Programming Fundamentals Are Crucial Before Diving Into AI](https://dev.to/bansikah/why-programming-fundamentals-are-crucial-before-diving-into-ai-3lml)
-- [Part 2: AWS Config Conformance Packs&lpar;Hands-On Guide&rpar;](https://dev.to/bansikah/part-2-aws-config-conformance-packshands-on-guide-o5n)
-- [Part 1: AWS Config: Automate Your Cloud Compliance and Security](https://dev.to/bansikah/aws-config-automate-your-cloud-compliance-and-security-2n23)
 <!-- BLOG-POST-LIST:END -->
