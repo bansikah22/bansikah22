@@ -32,9 +32,9 @@ After building responsive and robust applications, I deploy these applications i
 
 ## My 📚blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Achieving Least Privilege in Docker](https://dev.to/bansikah/achieving-least-privilege-in-docker-33je)
 - [Building MCP Servers: Understanding Transport Layers and Core Components](https://dev.to/bansikah/building-mcp-servers-understanding-transport-layers-and-core-components-3o1o)
 - [Kubernetes Security Context: A Comprehensive Guide](https://dev.to/bansikah/kubernetes-security-context-a-comprehensive-guide-5b5f)
 - [MCP Basics - Understanding the Model Context Protocol](https://dev.to/bansikah/mcp-basics-understanding-the-model-context-protocol-566g)
 - [Building a Serverless Todo API with AWS and Terraform: A Complete Learning Guide](https://dev.to/bansikah/building-a-serverless-todo-api-with-aws-and-terraform-a-complete-learning-guide-11jh)
-- [YAML Made Easy: From Basics to Practical Use Cases](https://dev.to/bansikah/yaml-the-backbone-of-modern-devops-mhm)
 <!-- BLOG-POST-LIST:END -->
