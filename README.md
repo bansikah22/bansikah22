@@ -1,51 +1,30 @@
 # 👋 Hi — I’m Noel Bansikah (bansikah22)
 
-**Full-Stack & DevOps Engineer · Technical Writer**
+**Full-Stack & DevOps Engineer | Technical Writer**
 
-I build scalable, maintainable, and user-friendly web applications using modern front-end and back-end technologies, then deploy and manage them in the cloud with complete automation and observability.
-
----
-
-## 🛠️ What I Do / Tech Stack
-
-### **Frontend**
-- HTML5, CSS3, JavaScript, TypeScript  
-- React, Angular, Vue  
-- Bootstrap, SASS
-
-### **Backend**
-- Java + Spring Boot  
-- Node.js, Python, PHP  
-- Databases: MySQL, MongoDB
-
-### **DevOps & Cloud**
-- AWS & Azure deployments  
-- Infrastructure-as-Code: Terraform  
-- Configuration management: Ansible  
-- Container orchestration: Kubernetes & Helm
-
-### **Other Tools**
-- Git, Docker, GitLab/GitHub  
-- Postman  
-- Linux/Unix  
-- Monitoring, logging, CI/CD pipelines
-
-### **Security & Quality**
-- Security scanning  
-- Code-quality checks  
-- Automated builds & deployments
+I build scalable web applications and automate cloud deployments using modern frontend, backend, and DevOps technologies.
 
 ---
 
-## 📚 What I Share
+## 🛠️ Tech Stack
 
-I regularly write and publish technical articles (on Dev.to, Medium, Hashnode, etc.) covering topics like infrastructure automation, cloud deployments, and best practices in development and DevOps.
+**Frontend:** HTML5, CSS3, JS/TS, React, Angular, Vue  
+**Backend:** Java (Spring Boot), Node.js, Python, PHP  
+**DevOps & Cloud:** AWS, Azure, Docker, Kubernetes, Helm, Terraform, Ansible  
+**Other:** Git, GitHub/GitLab, Linux, CI/CD, Monitoring & Logging  
+**Security:** Code quality & security scanning
 
 ---
 
-## 💡 Projects & Contributions
+## 📚 What I Do
 
-I maintain and contribute to a variety of repositories — from full-stack web applications to DevOps automation tools — that showcase my range of skills and continuous learning.
+I share technical articles on cloud, DevOps, and software engineering practices.
+
+---
+
+## 💡 Projects
+
+I build and contribute to full-stack apps, DevOps automation tools, and cloud-ready solutions.
 
 ![Visitor Count](https://hits.sh/github.com/bansikah22.svg?style=plastic&label=Visitors&color=lime&labelColor=black)
 
