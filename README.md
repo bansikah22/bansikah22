@@ -1,9 +1,51 @@
-### 👋 Hi, I'm Noel Bansikah!
+# 👋 Hi — I’m Noel Bansikah (bansikah22)
 
-👨‍💻 I'm a Software Engineer with 3 years+ experience creating beautiful, user-friendly web interfaces. I specialize in building responsive, scalable, and accessible websites using the latest web technologies such as HTML5, CSS3, JavaScript, and modern front-end frameworks like React, Vue, and Angular, and backend frames like Spring boot.
+**Full-Stack & DevOps Engineer · Technical Writer**
 
-After building responsive and robust applications, I deploy these applications into the cloud(aws, azure), using other tools like terraform to setup the IaC, and ansible for configuration management, kubernetes and helm for Container orchestration, snyk and sonarqube for security scanning, grafana and prometheus for monitoring and logging. I also write Helpful Articles to share my Knowledge with other.
+I build scalable, maintainable, and user-friendly web applications using modern front-end and back-end technologies, then deploy and manage them in the cloud with complete automation and observability.
 
+---
+
+## 🛠️ What I Do / Tech Stack
+
+### **Frontend**
+- HTML5, CSS3, JavaScript, TypeScript  
+- React, Angular, Vue  
+- Bootstrap, SASS
+
+### **Backend**
+- Java + Spring Boot  
+- Node.js, Python, PHP  
+- Databases: MySQL, MongoDB
+
+### **DevOps & Cloud**
+- AWS & Azure deployments  
+- Infrastructure-as-Code: Terraform  
+- Configuration management: Ansible  
+- Container orchestration: Kubernetes & Helm
+
+### **Other Tools**
+- Git, Docker, GitLab/GitHub  
+- Postman  
+- Linux/Unix  
+- Monitoring, logging, CI/CD pipelines
+
+### **Security & Quality**
+- Security scanning  
+- Code-quality checks  
+- Automated builds & deployments
+
+---
+
+## 📚 What I Share
+
+I regularly write and publish technical articles (on Dev.to, Medium, Hashnode, etc.) covering topics like infrastructure automation, cloud deployments, and best practices in development and DevOps.
+
+---
+
+## 💡 Projects & Contributions
+
+I maintain and contribute to a variety of repositories — from full-stack web applications to DevOps automation tools — that showcase my range of skills and continuous learning.
 
 ![Visitor Count](https://hits.sh/github.com/bansikah22.svg?style=plastic&label=Visitors&color=lime&labelColor=black)
 
