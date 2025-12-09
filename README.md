@@ -1,30 +1,9 @@
-# 👋 Hi — I’m Noel Bansikah (bansikah22)
+# Hi, I'm Noel Bansikah (bansikah22)
 
-**Full-Stack & DevOps Engineer | Technical Writer**
+Full-Stack and DevOps Engineer | Technical Writer
 
-I build scalable web applications and automate cloud deployments using modern frontend, backend, and DevOps technologies.
+I build scalable and maintainable web applications and automate cloud deployments with a focus on reliability, performance, and clean engineering practices. I work across both application development and infrastructure, combining software engineering with DevOps automation to deliver end-to-end solutions. I also share technical articles where I explain concepts related to software development, cloud platforms, and DevOps, and I contribute to a variety of projects that reflect continuous learning and practical problem-solving.
 
----
-
-## 🛠️ Tech Stack
-
-**Frontend:** HTML5, CSS3, JS/TS, React, Angular, Vue  
-**Backend:** Java (Spring Boot), Node.js, Python, PHP  
-**DevOps & Cloud:** AWS, Azure, Docker, Kubernetes, Helm, Terraform, Ansible  
-**Other:** Git, GitHub/GitLab, Linux, CI/CD, Monitoring & Logging  
-**Security:** Code quality & security scanning
-
----
-
-## 📚 What I Do
-
-I share technical articles on cloud, DevOps, and software engineering practices.
-
----
-
-## 💡 Projects
-
-I build and contribute to full-stack apps, DevOps automation tools, and cloud-ready solutions.
 
 ![Visitor Count](https://hits.sh/github.com/bansikah22.svg?style=plastic&label=Visitors&color=lime&labelColor=black)
 
