@@ -32,9 +32,9 @@ I build scalable and maintainable web applications and automate cloud deployment
 
 ## My 📚blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Achieving Least Privilege in Docker](https://dev.to/bansikah/achieving-least-privilege-in-docker-33je)
-- [Building MCP Servers: Understanding Transport Layers and Core Components](https://dev.to/bansikah/building-mcp-servers-understanding-transport-layers-and-core-components-3o1o)
-- [Kubernetes Security Context: A Comprehensive Guide](https://dev.to/bansikah/kubernetes-security-context-a-comprehensive-guide-5b5f)
-- [MCP Basics - Understanding the Model Context Protocol](https://dev.to/bansikah/mcp-basics-understanding-the-model-context-protocol-566g)
-- [Building a Serverless Todo API with AWS and Terraform: A Complete Learning Guide](https://dev.to/bansikah/building-a-serverless-todo-api-with-aws-and-terraform-a-complete-learning-guide-11jh)
+- [Deploying Applications on Amazon ECS: A Practical Guide](https://dev.to/bansikah/deploying-applications-on-amazon-ecs-a-practical-guide-5gm4)
+- [Amazon EKS Series - Part 5: GitOps with Argo CD on EKS](https://dev.to/bansikah/amazon-eks-series-part-5-gitops-with-argo-cd-on-eks-4992)
+- [Amazon EKS Series - Part 4: Deploying Applications on Amazon EKS](https://dev.to/bansikah/amazon-eks-series-part-4-deploying-applications-on-amazon-eks-9f6)
+- [Amazon EKS Series - Part 3: Provisioning an EKS Cluster with Terraform](https://dev.to/bansikah/amazon-eks-series-part-3-provisioning-an-eks-cluster-with-terraform-413c)
+- [Amazon EKS Series - Part 2: EKS Architecture and Core Components](https://dev.to/bansikah/amazon-eks-series-part-2-eks-architecture-and-core-components-36gk)
 <!-- BLOG-POST-LIST:END -->
