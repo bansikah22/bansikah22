@@ -32,9 +32,9 @@ I build scalable and maintainable web applications and automate cloud deployment
 
 ## My 📚blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kyverno Without the Noise: Practical Kubernetes Policies for Security &amp; Best Practices](https://dev.to/bansikah/kyverno-without-the-noise-practical-kubernetes-policies-for-security-best-practices-21i8)
 - [Terraform State Management with Amazon S3](https://dev.to/bansikah/terraform-state-management-with-amazon-s3-1478)
 - [EKS vs ECS: A Comprehensive Comparison](https://dev.to/bansikah/eks-vs-ecs-a-comprehensive-comparison-351i)
 - [Deploying Applications on Amazon ECS: A Practical Guide](https://dev.to/bansikah/deploying-applications-on-amazon-ecs-a-practical-guide-5gm4)
 - [Amazon EKS Series - Part 5: GitOps with Argo CD on EKS](https://dev.to/bansikah/amazon-eks-series-part-5-gitops-with-argo-cd-on-eks-4992)
-- [Amazon EKS Series - Part 4: Deploying Applications on Amazon EKS](https://dev.to/bansikah/amazon-eks-series-part-4-deploying-applications-on-amazon-eks-9f6)
 <!-- BLOG-POST-LIST:END -->
